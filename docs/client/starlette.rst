@@ -119,5 +119,5 @@ Examples
 
 We have Starlette demos at https://github.com/authlib/demo-oauth-client
 
-1. OAuth 1.0: `Starlette Twitter login <https://github.com/authlib/demo-oauth-client/tree/master/starlette-twitter-login>`_
-2. OAuth 2.0: `Starlette Google login <https://github.com/authlib/demo-oauth-client/tree/master/starlette-google-login>`_
+   1. OAuth 1.0: `Starlette Twitter login <https://github.com/authlib/demo-oauth-client/tree/master/starlette-twitter-login>`_
+   2. OAuth 2.0: `Starlette Google login <https://github.com/authlib/demo-oauth-client/tree/master/starlette-google-login>`_
