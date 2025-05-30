@@ -1,8 +1,14 @@
 Authlib Licenses
 ================
 
-Authlib offers two licenses, one is BSD for open source projects, one is
-a commercial license for closed source projects.
+Authlib offers two licenses:
+
+1. BSD LICENSE
+2. COMMERCIAL-LICENSE
+
+If your company needs commercial support, you can purchase a commercial license at
+`Authlib Plans <https://authlib.org/plans>`_. You can find more information at
+https://authlib.org/support.
 
 Open Source License
 -------------------
