@@ -29,7 +29,7 @@ Insiders
 Insiders are people who have access to our private repositories, you can become
 an insider with:
 
-1. purchasing a paid license at https://authlib.org/plans
+1. Purchasing a paid license at https://authlib.org/plans
 2. Become a sponsor with tiers including "Access to our private repos" benefit
 
 PyPI
