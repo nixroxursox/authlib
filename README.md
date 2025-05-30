@@ -124,19 +124,9 @@ Tidelift will coordinate the fix and disclosure.
 
 Authlib offers two licenses:
 
-1. BSD (LICENSE)
+1. BSD LICENSE
 2. COMMERCIAL-LICENSE
 
-Companies can purchase a commercial license at
-[Authlib Plans](https://authlib.org/plans).
-
-**If your company is creating a closed source OAuth provider, it is strongly
-suggested that your company purchasing a commercial license.**
-
-## Support
-
-If you need any help, you can always ask questions on StackOverflow with
-a tag of "Authlib". DO NOT ASK HELP IN GITHUB ISSUES.
-
-We also provide commercial consulting and supports. You can find more
-information at <https://authlib.org/support>.
+If your company needs commercial support, you can purchase a commercial license at
+[Authlib Plans](https://authlib.org/plans). You can find more information at
+<https://authlib.org/support>.
